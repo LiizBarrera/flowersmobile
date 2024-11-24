@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "flowersmobile",
+    "slug": "snack-a28f7636-8f8b-4396-b265-93f4ba97555f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "Bella.Flor"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "4278b9f6-f9ff-4269-af22-1be53eb20b1f"
+      }
+    }
+  }
+}
